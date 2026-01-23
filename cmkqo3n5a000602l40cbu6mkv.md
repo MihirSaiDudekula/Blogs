@@ -1,9 +1,9 @@
 ---
-title: "Paging & Virtual Memory Explained: How Your OS Makes works with limited RAM"
+title: "Paging & Virtual Memory Explained: How Your OS works with limited RAM"
 seoDescription: "Learn about virtual memory and paging, which enable efficient multitasking and memory management on limited RAM in your operating system"
 datePublished: Fri Jan 23 2026 09:17:38 GMT+0000 (Coordinated Universal Time)
 cuid: cmkqo3n5a000602l40cbu6mkv
-slug: paging-and-virtual-memory-explained-how-your-os-makes-works-with-limited-ram
+slug: paging-and-virtual-memory-explained-how-your-os-works-with-limited-ram
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/y4_xZ3cs96w/upload/e4a809c440c94f092b35531908f454b5.jpeg
 tags: operating-system, linux, caching, paging, virtual-memory, segmentation
 
